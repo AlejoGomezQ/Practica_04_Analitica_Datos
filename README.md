@@ -1,0 +1,2 @@
+# Practica_04_Analitica_Datos
+PRACTICA DE CALIDAD Y MINERÍA DE DATOS EN PYTHON 
